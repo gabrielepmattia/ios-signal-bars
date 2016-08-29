@@ -1,0 +1,10 @@
+Package: com.gabry3795.signalbars
+Name: Signal Bars
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Restore the original old signal bars
+Homepage: http://www.tuttodinternet.com
+Maintainer: gabry3795
+Author: gabry3795 < gabry.gabry@hotmail.it >
+Section: Themes
+Depends: winterboard
